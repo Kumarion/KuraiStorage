@@ -1,0 +1,1 @@
+return require(script.Parent._Index["sleitnick/concur@0.1.0"]["concur"])
